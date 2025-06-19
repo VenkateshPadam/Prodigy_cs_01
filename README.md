@@ -1,4 +1,4 @@
-![Project Banner](banner.png)
+
 # 🛡️ Prodigy_cs_01 – Caesar Cipher Project
 
 This project implements a simple **Caesar Cipher encryption and decryption tool** using Python. It allows users to input a message and a shift value to either encrypt or decrypt the message through the classic Caesar Cipher algorithm.
